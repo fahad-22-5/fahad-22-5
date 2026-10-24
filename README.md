@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahadeqbalhashmi)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eqbalfahad@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Interactive_3D_Portfolio-Live-10B981?style=for-the-badge&logo=three.js&logoColor=white)](https://fahadhashmi.tech)
+[![Portfolio](https://img.shields.io/badge/Interactive_3D_Portfolio-Live-10B981?style=for-the-badge&logo=three.js&logoColor=white)](https://fahadeqbalhashmi.in)
 
 </div>
 
